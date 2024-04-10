@@ -17,11 +17,6 @@ The following modules are tested to work:
 Others ePub commentaries may work or not, but feel free to try out. Support for other ePub commentary books can be
 suggested via Github issue or by email. This software is at beta stage.
 
-Online version
-----------------
-
-Try ONLINE version at https://studybibles.evankelista.net/
-
 Installing and converting to SWORD module
 -----------------------------------------
 
